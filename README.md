@@ -12,7 +12,6 @@ I'm passionate about cybersecurity, focusing on ethical hacking and linux. My jo
 
 * Cybersecurity projects and tools
 * Ethical Hacking challenges and write-ups
-* Security research and vulnerability analysis
 * CTF walkthroughs and solutions
 
 ### Skills
