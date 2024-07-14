@@ -25,8 +25,8 @@ I'm passionate about cybersecurity, focusing on ethical hacking and linux. My jo
 
 ### Currently Learning
 
-* Advanced penetration testing techniques
-* Malware analysis and reverse engineering
+* Ethical Hacking - TCM Academy Course
+* Bug Bounty
 * Web application security
 * Network security and firewall configuration
 
